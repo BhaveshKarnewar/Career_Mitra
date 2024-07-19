@@ -41,11 +41,16 @@ Visit the hosted URL of the Career Guidance Portal.
 URL : <a href="https://careermitra.online/">Career Mitra</a>
 
 **Explore features:**
+<ul>
+   <li>Take the online quiz to get career recommendations.</li>
+   <li>Consult with career experts.</li>
+   <li>Browse through learning resources.</li>
+   <li>Generate a professional resume.</li>
+</ul>
 
-Take the online quiz to get career recommendations.
-Consult with career experts.
-Browse through learning resources.
-Generate a professional resume.
+
+
+
 
 ## Contact
 
