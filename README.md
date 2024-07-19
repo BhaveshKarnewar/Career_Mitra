@@ -1,4 +1,5 @@
-# Career Mitra <p>(A Career Guidance Portal)<p>
+# Career Mitra 
+<p>(A Career Guidance Portal)<p>
 
 
 Career Mitra is a comprehensive career guidance portal designed to assist users in making informed career choices. It offers multiple features including an online quiz, career consulting, learning resources, and a resume generator. The portal is built using JavaScript, PHP, and MySQL, and is hosted on Infinity Free server.
